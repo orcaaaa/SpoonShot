@@ -22,6 +22,6 @@ In my life I would want to have made a global impact on a socially relevant topi
 
 # Question 1
 
-[Link to the Desmos graph of my modification to Jaro distance]([url](https://www.desmos.com/calculator/kyzbp5yrzn))
+[Link to the Desmos graph of my modification to Jaro distance](https://www.desmos.com/calculator/kyzbp5yrzn)
 
 
