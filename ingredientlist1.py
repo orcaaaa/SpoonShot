@@ -41,5 +41,3 @@ ingredients = ['Ambrette Seed',
 'Vegan White Cake',
 'Vegetable Stock',
 'Vinegar']
-for ingredient in ingredients:
-    ingredient=ingredient.lower
