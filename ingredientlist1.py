@@ -1,4 +1,4 @@
-['Ambrette Seed',
+ingredients = ['Ambrette Seed',
 'Apple Cinnamon Granola',
 'Arizona Seasoning',
 'Americano Coffee',
@@ -41,3 +41,5 @@
 'Vegan White Cake',
 'Vegetable Stock',
 'Vinegar']
+for ingredient in ingredients:
+    ingredient=ingredient.lower
