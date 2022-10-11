@@ -11,7 +11,7 @@ a = np.array([int(item) for item in input("Enter the list items : ").split()])
 n = np.empty(len(a))
 
 #non zero array from a; np.nonzero returns the indices of all non zero elements
-b = a[np.nonzero(a)]
+b = np.nonzero(a)
 
 #product of all non zero elements of a
 p = np.prod(b)
