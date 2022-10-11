@@ -1,4 +1,4 @@
-[My linkedin]([url](https://www.linkedin.com/in/sathyan-sundararajan-41345a222/))
+[My linkedin](https://www.linkedin.com/in/sathyan-sundararajan-41345a222/)
 
 # Question 3
  ## a)
